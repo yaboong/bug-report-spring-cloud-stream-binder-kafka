@@ -26,7 +26,7 @@ management:
   metrics:
     export:
       datadog:
-        apiKey: password
+        apiKey: '{cipher}7fa779a082325140e263b0a6804d3cd552f4eb6df012a7779c11d7396fc12be5'
         enabled: true
         step: 10s
       wavefront:
